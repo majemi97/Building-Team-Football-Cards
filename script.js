@@ -6,5 +6,7 @@ const playerCards = document.getElementById("player-cards");
 const playersDropdownList = document.getElementById("players");
 const myFavoriteFootballTeam = {
   team: "Argentina",
-  sport: "Football"
+  sport: "Football",
+  year: 1986,
+
 };
